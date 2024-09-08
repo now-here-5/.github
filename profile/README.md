@@ -56,6 +56,8 @@
 ### 📑 노션 링크
 [![Notion](https://img.shields.io/badge/Notion-Now_Here-%23000000?style=for-the-badge&logo=notion&logoColor=white)](https://heejohn.notion.site/Now-here-f93e5f11396f44cb8618d7be3d525b9c?pvs=4)
 
+### 🤔 이슈 & PR
+[PR & ISSUE](https://github.com/now-here-5/now-here/issues)
 ---
 
 ## 🚀 기술적 도전
