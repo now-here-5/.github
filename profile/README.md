@@ -83,15 +83,18 @@
 
 ## 🏛️ 서비스 구성
 
-### 🧩 전체 아키텍처
-![total](https://github.com/user-attachments/assets/b486fe44-0ec7-45f5-930d-9da0c3869d0d)
+### 🧩 전체 아키텍처 
+![total](https://github.com/user-attachments/assets/b9aca9fc-7445-45b4-a3f3-32eab91bbcfc)
+
 
 ### 🛠 배포 아키텍처
-- server application 배포 과정
-![be](https://github.com/user-attachments/assets/7173593c-f4b7-48af-ac79-12a7eac4cb25)
+- server application 배포 과정 <br>
+  ![be_deploy](https://github.com/user-attachments/assets/10e041ac-9aff-413f-b0c8-695f2c60344d)
 
-- client application 배포 과정
-![fe](https://github.com/user-attachments/assets/bc5717c1-8260-4703-aa45-fb968dff69d4)
+
+- client application 배포 과정 <br>
+  ![fe_deploy](https://github.com/user-attachments/assets/b482a1c7-50aa-4f78-ae70-b22b3e5757ce)
+
 
 
 
