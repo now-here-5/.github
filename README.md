@@ -1,5 +1,5 @@
 
-# 🌟 Now, Here
+# 🌟 [Now, Here](https://www.now-here.site/login/MTAyOTM4NDY)
 
 <h3>이벤트 기반 매칭 프로그램</h3>
 
@@ -91,11 +91,13 @@
 
 ### 🛠 배포 아키텍처
 - server application 배포 과정 <br>
-  ![be_deploy](https://github.com/user-attachments/assets/10e041ac-9aff-413f-b0c8-695f2c60344d)
+  ![be_deploy](https://github.com/user-attachments/assets/cfd7c2c0-de1e-4df4-919b-b5322511d5c5)
+
 
 
 - client application 배포 과정 <br>
-  ![fe_deploy](https://github.com/user-attachments/assets/b482a1c7-50aa-4f78-ae70-b22b3e5757ce)
+  ![fe_deploy](https://github.com/user-attachments/assets/349f1194-0dba-40e6-afff-8f5f86b26cf7)
+
 
 
 
