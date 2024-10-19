@@ -87,7 +87,8 @@
 ## 🏛️ 서비스 구성
 
 ### 🧩 전체 아키텍처 
-![total](https://github.com/user-attachments/assets/b9aca9fc-7445-45b4-a3f3-32eab91bbcfc)
+![now-here](https://github.com/user-attachments/assets/e45aefc8-4761-4e0d-9356-a9d7186d23ad)
+
 
 
 ### 🛠 배포 아키텍처
