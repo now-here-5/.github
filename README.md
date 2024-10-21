@@ -102,4 +102,6 @@
 (서버 아키텍처 다이어그램을 여기에 추가하세요.)
 
 ### 🗄️ 데이터베이스 ERD
-![363743494-f3ffa878-31eb-4fd0-a643-282e39cbbc59](https://github.com/user-attachments/assets/08ec21eb-f46c-4f97-b919-09f7eb5e160e)
+![db](https://github.com/user-attachments/assets/4f4240d8-888c-4480-8405-da27d6f02a1f)
+
+
