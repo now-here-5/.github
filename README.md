@@ -47,7 +47,7 @@
 (프론트엔드 기술 스택 테이블은 그대로 유지)
 
 ### 🔗 링크
-[Now, Here Link](https://www.now-here.site/login/MTAyOTM4NDU)
+[Now, Here Link](https://www.now-here.site/login/MTAyOTM4NDY)
 
 ### 📑 노션 링크
 [![Notion](https://img.shields.io/badge/Notion-Now_Here-%23000000?style=for-the-badge&logo=notion&logoColor=white)](https://heejohn.notion.site/Now-here-f93e5f11396f44cb8618d7be3d525b9c?pvs=4)
