@@ -53,7 +53,7 @@
 | Caching    | Caffeine                                       |
 | DB Pool    | HikariCP                                       |
 
-### 프론트엔드 / 추가 예정
+### 프론트엔드
 | Category   | TechStack                                      |
 |------------|------------------------------------------------|
 | Framework | Vue.js 3, Vite |
